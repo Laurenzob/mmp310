@@ -32,6 +32,9 @@ input {
 
 #search {
     text-align: center;
+    padding: 20px;
+    font-family: Helvetica;
+    font-size: 15px;
 }
 
 .video {
